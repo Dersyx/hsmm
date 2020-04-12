@@ -14,12 +14,18 @@ Home System Media Management - A suite of tools used to manage media across an e
 
 #### Server
 > Storage that is sortable like a modern music library.
+
 > Easily accessible for a client-side application.
+
 > Holds the media. That's about it.
 
 #### Client
 > Possible kodi integration?
+
 > At least mobile and desktop support.
+
 > Needs to be able to, at the very least, download the contents of the server easy (one button. no finicky business).
+
 > Easy setup for end user.
+
 > Extension to easily download youtube videos, and an option to push them to the library.
