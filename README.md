@@ -6,7 +6,7 @@ Home System Media Management - A suite of tools used to manage media across an e
 
 > Client-side applications for upload and download of media.
 
-> Client-side application for creating new content (YouTube video downloader that automatically pushes to the server).
+> Client-side application for creating new content (YouTube video download-er that automatically pushes to the server).
 
 > Biggest problem will be maintaining a level of professionalism and ease-of-use. If it's not easy to use, then the project is dead. First priority is useability.
 
